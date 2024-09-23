@@ -13,6 +13,8 @@ const Header = () => {
           <div className='d-flex justify-content-center pt-4'>
               <img src={green} alt="green-image" />
           </div>
+          
+          
     </div>
   )
 }
