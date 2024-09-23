@@ -1,5 +1,5 @@
 import React from 'react'
-import green from '../assets/images/webp/green.webp'
+import green from '../../assets/images/webp/green.webp';
 
 const Header = () => {
   return (
